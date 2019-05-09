@@ -1,0 +1,10 @@
+Please compare the (8) curves generated and determined which columns have distribution functions of similar shape. 
+
+All data:
+The curves, for the most part, had a similar shape with a tall curve in the beginning followed by a much smaller curve. The only graph that did not follow this pattern was the first column, the clump thickness.
+
+Correlation:
+After comparing many of the columns, they seem to have no correlation at all, as seen by the two columns I chose: size uniformity and shape uniformity. This graph like many of the others looks like checkers spread on a board and had an numerical correlation value of 0.906882. It could be possible that there is a positive correlation due to the small empty space in two of the corners, but it appears to be too spread to confidently conclude as such.
+
+Group by class:
+Most of the graphs for class 2 were similar in that there was only one bump near the left, except for clump thickness and bland chromatin. 
